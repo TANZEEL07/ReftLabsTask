@@ -1,0 +1,6 @@
+@ReftLabsTask_HostAddress = http://localhost:5124
+
+GET {{ReftLabsTask_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
